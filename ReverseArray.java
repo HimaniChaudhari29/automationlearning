@@ -4,6 +4,7 @@ public class ReverseArray {
 
 //this is from main branch
 
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
             int[] arr= {2,4,6,3,1,7};
@@ -20,7 +21,7 @@ public class ReverseArray {
             }
             
            
-          
+          //This is modified file from dev branch
           
 }
 }
