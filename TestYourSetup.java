@@ -13,7 +13,8 @@ import org.testng.annotations.Test;
 public class TestYourSetup {
 
 	WebDriver driver;
-//It is testng annotation
+//It is testng annotation.It is untacked file while this comment wrote.
+//Now it is staged file
 	@Test
 	public void loginToNicheThyselfTourism() {
 		driver.get("https://nichethyself.com/tourism/home.html");
