@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 public class TestYourSetup {
 
 	WebDriver driver;
-
+//It is testng annotation
 	@Test
 	public void loginToNicheThyselfTourism() {
 		driver.get("https://nichethyself.com/tourism/home.html");
