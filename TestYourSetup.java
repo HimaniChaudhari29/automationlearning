@@ -1,5 +1,6 @@
 package scripts;
 //This is modified file in main branch
+//It is of v1.0
 import static org.testng.Assert.assertEquals;
 
 import org.openqa.selenium.By;
